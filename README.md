@@ -7,7 +7,9 @@ Moreover, Intel OpenVINO Toolkit also provide pre-trained models for developers 
 
 ### Additional links that are considered useful! 
 <a href='https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html'>Intel Distribution of OpenVINO Download</a> <br>
-<a href='https://github.com/openvinotoolkit/open_model_zoo/tree/master/models'>Open Model Zoo</a>
+<a href='https://github.com/openvinotoolkit/open_model_zoo/tree/master/models'>Open Model Zoo</a><br>
+<a href='https://docs.openvino.ai/latest/pot_compression_api_README.html'>Post-Training Optimization Tool API</a><br>
+<a href='https://docs.openvino.ai/2021.4/notebooks/301-tensorflow-training-openvino-pot-with-output.html'>Post-Training Quantization with TensorFlow Classification Model</a>
 
 ### What Does An Inference Look Like Using OpenVINO?
 <img src="https://miro.medium.com/max/1400/1*P7ZfeJW7uoATtfDneIbP3Q.png">
